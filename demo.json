@@ -1,0 +1,19 @@
+[
+{
+"name":"FAQ Demo",
+"description":"Demo of how FAQ works and how it is useful",
+"image":"https://img.youtube.com/vi/l9xwqFFXX20/0.jpg",
+"link":"https://www.youtube.com/watch?v=l9xwqFFXX20"
+},
+{
+"name":"Educational chatbot demo",
+"description":"Demo of chatbot which we have developed for a popular university",
+"image":"https://img.youtube.com/vi/BfQN4HWCSBA/0.jpg",
+"link":"https://www.youtube.com/watch?v=BfQN4HWCSBA"
+},
+{
+"name":"Car dealship chatbot demo",
+"description":"Demo of chatbot which we have developed for the BMW car dealership",
+"image":"https://img.youtube.com/vi/mV7tuupqXlI/0.jpg",
+"link":"https://www.youtube.com/watch?v=mV7tuupqXlI"
+}]
