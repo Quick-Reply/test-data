@@ -1,0 +1,18 @@
+Tell me more about Integrations
+
+ExpenseOnDemand supports integration with many platforms and it also provides a way to import/export data. Below is the list of integrations. The list also contains video for each of them
+
+1. QuickBooks: 
+    
+    Setup real-time integration with QuickBooks. Link employees, expense categories, tax rates, etc within minutes and on a click of a button, automatically transfer approved expenses into QuickBooks. More details here: https://youtube.com/playlist?list=PLugzlMICZR8jK2xFlslYF9JgAcD3vQ8E4
+    
+2. Sage50 Cloud: 
+Take 5 minutes to setup the integration between ExpenseOnDemand and Sage50 Cloud. Thereafter, with a single click automatically transfer accounting entries from ExpenseOnDemand to Sage50 Cloud. More details here: https://www.youtube.com/playlist?list=PLugzlMICZR8hjHBNvbeuQegUAdrTSueZL
+3. Tally: 
+Takes 5 minutes to setup the integration between ExpenseOnDemand and Tally. Thereafter, with a single click automatically transfer accounting entries from ExpenseOnDemand to Tally. More details here: https://www.youtube.com/playlist?list=PLugzlMICZR8hy4xVveaMWJUwlUmeEoytj
+4. Xero:
+Setup real-time integration with Xero. Link employees, expense categories, tax rates, etc within minutes and on a click of a button, automatically transfer approved expenses into Xero. More details here: https://youtube.com/playlist?list=PLugzlMICZR8jbh5JqouUMyPiZKuuD2NuW
+5. Sege200 (Beta)
+More details about integration here: https://youtube.com/playlist?list=PLugzlMICZR8hCen_H_LOoSOLRzjLNR2wg
+6. Custom Integrations (Using Export your data)
+Our Report Writer can help you create custom reports for any accounting systems in minutes. More details: https://www.youtube.com/playlist?list=PLugzlMICZR8jpha9c7VwDIcZr362dlWvU
